@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-orange)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-green)
+![DVC](https://img.shields.io/badge/DVC-DataVersioning-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Handwritten Digit Recognition using Deep Learning and CRISP-DM
 
 ## Overview
