@@ -4,7 +4,7 @@
 ![DVC](https://img.shields.io/badge/DVC-DataVersioning-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# Handwritten Digit Recognition using Deep Learning and CRISP-DM
+# Handwritten Digit Recognition
 
 ## Overview
 
